@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Ronit 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=1000&lines=My+diagnostic+instinct+is+unmatched.;Tenacity+is+non-negotiable.;I+don’t+fix+bugs+—+I+eradicate+inefficiency.;Code+with+precision.+Execute+with+purpose."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&duration=2000&color=00C8FF&center=true&width=1000&lines=My+diagnostic+instinct+is+unmatched.;My+tenacity+is+non-negotiable.;I+don’t+just+fix+errors+—+I+dismantle+inefficiency.;Precision+in+logic.+Brutal+in+execution."/>
 </p>
 
 
