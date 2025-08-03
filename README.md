@@ -1,14 +1,9 @@
 <h1 align="center">Hi, I'm Ronit 👋</h1>
 
 <p align="center">
-<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&width=420&lines=Aspiring+ML+%26+AI+Engineer;Web+Dev+%7C+C%2FC%2B%2B+%7C+Python;Learning+One+Project+at+a+Time" alt="Typing SVG" /> -->
-<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&width=520&lines=Engineering+Intelligence,+Not+Just+Software;Less+Hype,+More+Code;Code+That+Learns.+Interfaces+That+Think.;Version+0.1+—+Still+Loading..." /> -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1300&color=00C8FF&center=true&width=1000&lines=My+unparalleled+diagnostic+acumen,+fused+with+an+unyielding+tenacity,+renders+me+a+surgical+force+within+any+codebase.;I+don’t+just+resolve+errors+—+I+dismantle+inefficiency+at+its+core."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1300&color=00C8FF&center=true&width=1000&lines=My+diagnostic+instinct+is+unmatched.;My+tenacity+is+non-negotiable.;I+don’t+just+fix+errors+—+I+dismantle+inefficiency.;Precision+in+logic.+Brutal+in+execution."/>
 </p>
 
-
-</p>
 
 ---
 
