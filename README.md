@@ -12,8 +12,8 @@
 
 ### ✨ About Me
 
-- 🎓 B.E. CSE student | Learning AI, ML, Web Dev & DSA  
-- 🌱 Currently exploring: React, Python, scikit-learn  
+- 🎓 B.E. CSE student | Learning EVERYTHING  
+- 🌱 Currently exploring: AI and ML algos 
 - 🔭 Building small projects to sharpen real-world skills  
 - 📌 I believe in: *"Consistency over complexity"*  
 - 💼 Open to internships, collaborations & learning opportunities
@@ -43,7 +43,6 @@
 - 🎯 **Mini ML Models** – Linear regression, clustering, SVM  
 - 🧠 **Hand Gesture Recognition** – Real-time prediction using Python  
 - 🌐 **Basic Web Apps** – HTML, CSS, JS + React experiments  
-- ⛓️ **CertHash** *(in progress)* – Blockchain + Smart Contracts
 
 💡 *Every project helps me learn better, and I document the journey!*
 
@@ -61,9 +60,9 @@
 ### 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:ronit@example.com"><img src="https://img.shields.io/badge/Gmail-FF6F00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ronitkhanna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ronitkhanna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ronit.khanna420X@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6F00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ronitbby"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Ronit-bby"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
