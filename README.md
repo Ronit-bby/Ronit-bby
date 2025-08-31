@@ -42,7 +42,7 @@
 
 - 🎯 **Mini ML Models** – Linear regression, clustering, SVM  
 - 🧠 **Hand Gesture Recognition** – Real-time prediction using Python  
-- 🌐 **Basic Web Apps** – HTML, CSS, JS + React experiments  
+- 🌐 **Advance Web Apps** – HTML, CSS, JS + React experiments  
 
 💡 *Every project helps me learn better, and I document the journey!*
 
